@@ -1,10 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import SplashScreen from '@/pages/Home/SplashScreen.vue'
-import SurahList from '@/pages/surah/SurahList.vue'
-import AyatList from '@/pages/surah/AyatList.vue'
-import JuzList from '@/pages/juz/JuzList.vue'
-import JuzDetail from '@/pages/juz/JuzDetail.vue'
+import SurahList from '@/pages/Surah/SurahList.vue'
+import AyatList from '@/pages/Surah/AyatList.vue'
+import JuzList from '@/pages/Juz/JuzList.vue'
+import JuzDetail from '@/pages/Juz/JuzDetail.vue'
 
 const routes = [
   { path: '/', component: SplashScreen },
