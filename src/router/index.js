@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import SplashScreen from '@/pages/home/SplashScreen.vue'
+import SplashScreen from '@/pages/Home/SplashScreen.vue'
 import SurahList from '@/pages/surah/SurahList.vue'
 import AyatList from '@/pages/surah/AyatList.vue'
 import JuzList from '@/pages/juz/JuzList.vue'
